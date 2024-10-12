@@ -1,4 +1,4 @@
-# Course Description
+# [Course Description](https://siebelschool.illinois.edu/academics/courses/cs521-120248)
 
 > Advanced topics in building and verifying software systems, selected from areas of current research such as: model checking and automated verification, testing and automated test generation, program synthesis, runtime verification, machine learning and its applications in the design of verified systems, formal analysis of machine learning algorithms, principles of programming languages and type systems. 
 
