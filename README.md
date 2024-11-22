@@ -6,7 +6,15 @@
 
 # HW1 Adversarial Attacks & Training
 
-Adversarial attacks and training on neural networks. Implementation of the Projected Gradient Descent attack described 
+Adversarial attacks and training on neural networks. Implementation of the Projected Gradient Descent attack described
 in the [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083) paper.
 
 # HW2 Interval Analysis for Neural Networks
+
+# HW4
+
+`adversarial_explanations/`: SmoothGrad explanations for adversarial examples.
+
+`explanations/`: LIME and SmoothGrad explanations for normal examples.
+
+`output`: correlation scores, adversarial images
