@@ -22,24 +22,28 @@ in the [Towards Deep Learning Models Resistant to Adversarial Attacks](https://a
 # HW5
 
 ## Problem 1
+
 Problem 1 Google Colab [Notebook](https://colab.research.google.com/github/trakyari/Trustworthy-AI-Systems/blob/main/hw5/problem1.ipynb)
 
-### To run 
+### To run
 
-Activate your hugging face token 
+Activate your hugging face token
 
 ```bash
 export HUGGINGFACE_TOKEN=your_token
 ```
 
-Problem 2 Google Colab [Notebook](https://colab.research.google.com/github/trakyari/Trustworthy-AI-Systems/blob/main/hw5/problem2.ipynb)
+## Problem 2
 
+Not fully working. Data loading and model training functionality is present.
+
+Problem 2 Google Colab [Notebook](https://colab.research.google.com/github/trakyari/Trustworthy-AI-Systems/blob/main/hw5/problem2.ipynb)
 
 ## Problem 3
 
 ### To run
 
-Set your OpenAI API key in a file `key.txt`	in the same directory as the notebook.
+Set your OpenAI API key in a file `key.txt` in the same directory as the notebook.
 
 Download the VQA Balanced Real Images questions, images, and complimentary pairs from the [VQA Balanced Real Images](https://visualqa.org/download.html) page.
 
