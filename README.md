@@ -18,3 +18,11 @@ in the [Towards Deep Learning Models Resistant to Adversarial Attacks](https://a
 `explanations/`: LIME and SmoothGrad explanations for normal examples.
 
 `output`: correlation scores, adversarial images
+
+# HW5
+
+Problem 1 Google Colab [Notebook](https://colab.research.google.com/github/trakyari/Trustworthy-AI-Systems/blob/main/hw5/problem1.ipynb)
+
+Problem 2 Google Colab [Notebook](https://colab.research.google.com/github/trakyari/Trustworthy-AI-Systems/blob/main/hw5/problem2.ipynb)
+
+Problem 3 Google Colab [Notebook](https://colab.research.google.com/github/trakyari/Trustworthy-AI-Systems/blob/main/hw5/problem3.ipynb)
