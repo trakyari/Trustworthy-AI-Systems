@@ -8,8 +8,6 @@ from torchvision import models, transforms
 from torchvision.io import read_image
 
 # JSON load a file, include exception handling
-
-
 def load_json_file(file_path):
     try:
         with open(file_path, 'r') as file:
@@ -55,10 +53,6 @@ class VQADataset(Dataset):
 
         answers = [annotation["answer"]
                    for annotation in self.annotations[idx]["answers"]]
-
-        # label = [for answer in answers]
-
-        print(answers)
 
         return image, answers
 
